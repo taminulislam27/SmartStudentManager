@@ -56,7 +56,7 @@ Student-Record-Management-System/
 ## ▶️ How to Run the Project
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/Student-Record-Management-System.git
+   git clone https://github.com/username/Student-Record-Management-System.git
 2. Go to the project directory
     ```
     cd Student-Record-Management-System/src
